@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "label": "DashBoard",
+            "path": "/"
+        },
+        {
+            "label": "Profile",
+            "path": "/profile"
+        },
+        {
+            "label": "Members",
+            "path": "/members"
+        },
+        {
+            "label": "Statement",
+            "path": "/statements"
+        },
+        {
+            "label": "Make Transcations",
+            "path": "/payments"
+        }
+    ]
+}

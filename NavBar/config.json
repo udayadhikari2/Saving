@@ -1,0 +1,52 @@
+{
+    "basicInfo": [
+        {
+            "id": "01",
+            "name": "Uday Adhikari",
+            "email": "uday.adhikari2@gmail.com",
+            "dob": "1996-06-28",
+            "sex": "Male",
+            "fatherName": "Ram Chamdra Adhikari",
+            "motherName": "Uma Maya Parajuli Adhikari",
+            "address": "Bardaghat-14",
+            "phone":"9845634343"
+        }
+    ],
+    "members": [
+        {
+            "id": "01",
+            "name": "Uday Adhikari",
+            "email": "uday.adhikari2@gmail.com",
+            "phone":"9845634343",
+            "status":"Null"
+        },
+        {
+            "id": "02",
+            "name": "Bikash Adhikari",
+            "email": "cabikash@gmail.com",
+            "phone":"9855051646",
+            "status":"Null"
+        },
+        {
+            "id": "03",
+            "name": "Bijay Adhikari",
+            "email": "bijayhunk@gmail.com",
+            "phone":"9847559003",
+            "status":"Loan"
+        },
+        {
+            "id": "05",
+            "name": "Bishal Adhikari",
+            "email": "bishaladhy@gmail.com",
+            "phone":"9845473205",
+            "status":"Loan"
+        },
+        {
+            "id": "06",
+            "name": "Sajan Gurung",
+            "email": "gurungsajan@gmail.com",
+            "phone":"9813456921",
+            "status":"Null"
+        }
+    ]
+}
